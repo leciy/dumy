@@ -66,6 +66,8 @@ flutter:
     - assets/logo/companies_logo/starbucks_logo.png
     - assets/logo/companies_logo/kfc_logo.png
     - assets/logo/companies_logo/richeese_logo.png
+    - assets/reward_coin.png
+    - assets/three_reward_coin.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
